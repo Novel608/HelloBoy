@@ -6,6 +6,6 @@ public class Test {
 	private int age;
 	private String name="chen";
 	public static void main(String[] args) {
-		System.out.println("this the test");
+		System.out.println("this the tet");
 	}
 }
